@@ -1,4 +1,4 @@
-# Project 3 - Reddit NLP Classification
+# Subreddit Classifier
 
 
 # Problem Statement:
